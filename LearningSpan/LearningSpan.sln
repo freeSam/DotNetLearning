@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplainingSpan", "ExplainingSpan\ExplainingSpan.csproj", "{9177572E-4220-49D8-828E-AF49BC0CD508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9177572E-4220-49D8-828E-AF49BC0CD508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9177572E-4220-49D8-828E-AF49BC0CD508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9177572E-4220-49D8-828E-AF49BC0CD508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9177572E-4220-49D8-828E-AF49BC0CD508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF136B90-891C-4EED-B439-B0FC0F32A02A}
+	EndGlobalSection
+EndGlobal

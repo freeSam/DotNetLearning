@@ -1,7 +1,6 @@
-﻿namespace FileScopedNamespaces
+﻿namespace FileScopedNamespaces;
+
+internal class Person
 {
-    internal class Person
-    {
-        public string Name { get; set; }
-    }
+    public string Name { get; set; }
 }

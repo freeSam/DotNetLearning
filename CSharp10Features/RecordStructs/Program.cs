@@ -9,3 +9,8 @@ internal struct Rectangle
 }
 
 internal record struct Person(string FirstName);
+
+internal record struct Person2
+{
+    public string FirstName { get; }
+}
